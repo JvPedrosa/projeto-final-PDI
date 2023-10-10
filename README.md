@@ -15,7 +15,7 @@ Como instalar:
 Como usar:
 
 -   Execute o script:
-    python bg_remover.py
+  python bg_remover.py
 
 -   Uma janela se abrirá pedindo para você selecionar a imagem da qual deseja remover o fundo.
 -   Selecione a imagem e clique em "Abrir".
